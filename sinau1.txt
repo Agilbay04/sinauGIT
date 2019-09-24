@@ -1,4 +1,5 @@
 Belajar HTML
 Belajar CSS
-Belajar JavaScript
 Belajar PHP
+Belajar Bootstrap
+Belajar Codeigniter
