@@ -1,0 +1,29 @@
+body{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h1, h3, p{
+    text-align: center;
+}
+
+.tgl{
+    text-align: left;
+}
+
+th{
+    background-color: gray;
+}
+
+th, td{
+    text-align: center;
+    font-size: 16pt;
+}
+
+.ttd td{
+    background-color: white;
+    font-size: 12pt;
+}
+
+tr:nth-child(even){
+    background-color: lightslategrey;
+}
